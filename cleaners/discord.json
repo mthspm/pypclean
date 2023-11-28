@@ -1,0 +1,9 @@
+{
+    "appname": "discord",
+    "paths": {
+        "cache" : "AppData\\Roaming\\discord\\Cache",
+        "code_cache" : "AppData\\Roaming\\discord\\Code Cache",
+        "gpu_cache" : "AppData\\Roaming\\discord\\GPUCache"
+
+    }
+}

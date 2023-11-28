@@ -1,0 +1,8 @@
+{
+    "appname": "windows",
+    "paths": {
+        "temp" : "Windows\\Temp",
+        "prefetch" : "Windows\\Prefetch"
+
+    }
+}

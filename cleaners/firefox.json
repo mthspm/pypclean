@@ -1,0 +1,7 @@
+{
+    "appname": "firefox",
+    "paths": {
+        "shader-cache" : "shader-cache"
+
+    }
+}

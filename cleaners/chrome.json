@@ -1,0 +1,9 @@
+{
+    "appname": "chrome",
+    "paths": {
+        "cache" : "AppData\\Local\\Google\\Chrome\\User Data\\Default\\Cache",
+        "code_cache" : "AppData\\Local\\Google\\Chrome\\User Data\\Default\\Code Cache",
+        "gpu_cache" : "AppData\\Local\\Google\\Chrome\\User Data\\Default\\GPUCache"
+
+    }
+}
